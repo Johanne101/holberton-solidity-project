@@ -3,13 +3,15 @@ Holberton School Project
 
 ## Setup:
 
+### Fork the repository
+
 ### Install
 
 ```
 npm i
 ```
 
-### Add .config.json and sign up for alchemy key https://alchemyapi.io/
+### Add `.config.json` and sign up for alchemy key https://alchemyapi.io/
 
 ```
 {
