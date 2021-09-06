@@ -1,10 +1,10 @@
 //SPDX-License-Identifier: Unlicense
-pragma solidity ^0.6.12;
+pragma solidity ^0.8.0;
 
 import "@openzeppelin/contracts/token/ERC20/ERC20.sol";
 import "@openzeppelin/contracts/access/Ownable.sol";
 
-contract DappToken is ERC20('Dapp Token', 'DAPP'), Ownable {
+contract ExampleToken is ERC20('Example Token', 'EXAMPLE'), Ownable {
     function mint(address account, uint256 amount) public onlyOwner {
         _mint(account, amount);
     }

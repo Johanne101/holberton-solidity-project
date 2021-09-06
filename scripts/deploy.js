@@ -9,17 +9,11 @@ async function main() {
   await hre.run('compile');
 
   // We get the contract to deploy
-  const dappStakingPoolFactory = await hre.ethers.getContractFactory("DappStakingPool");
-  const dappTokenFactory = await hre.ethers.getContractFactory("DappToken");
+  const exampleTokenFactory = await hre.ethers.getContractFactory("ExampleToken");
 
-  const dappTokenContract = await dappTokenFactory.deploy();
-  await dappTokenContract.deployed();
-  console.log("Dapp Token deployed to:", dappTokenContract.address);
-
-  const dappStakingPoolContract = await dappStakingPoolFactory.deploy();
-  await dappStakingPoolContract.deployed();
-  console.log("Dapp Staking Pool deployed to:", dappStakingPoolContract.address);
-
+  const exampleTokenContract = await exampleTokenFactory.deploy();
+  await exampleTokenContract.deployed();
+  console.log("Example Token deployed to:", exampleTokenContract.address);
 }
 
 // We recommend this pattern to be able to use async/await everywhere
