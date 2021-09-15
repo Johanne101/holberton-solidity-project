@@ -1,17 +1,20 @@
 # holberton-solidity-project
-Holberton School Project
 
-## Setup:
+### Assignment
 
-### Fork the repository
+Build a simple NFT exchange. See full writeup in `/assignment` folder.
 
-### Install
+### Setup:
+
+1. Fork the repository
+
+2. Install
 
 ```
 npm i
 ```
 
-### Add `.config.json` and sign up for alchemy key https://alchemyapi.io/
+3. Add `.config.json` and sign up for alchemy key https://alchemyapi.io/
 
 ```
 {
@@ -19,7 +22,7 @@ npm i
 }
 ```
 
-### Run tests
+4. Run tests
 
 ```
 npm run test
@@ -27,13 +30,7 @@ npm run test
 
 ---
 
-## Assignment
-
-tbd
-
----
-
-## Docs
+Docs
 
 - Solidity is the language in which smart contracts are written https://docs.soliditylang.org/
 - Hardhat is a development environment for creating, debugging, and unit testing smart contracts https://hardhat.org/getting-started/
