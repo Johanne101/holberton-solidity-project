@@ -14,5 +14,6 @@ describe("Holberton Project", function() {
   });
 
   it("Example unit test", async function() {
+    // you will create one of these for each unit test required
   });
 });
