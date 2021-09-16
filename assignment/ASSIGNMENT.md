@@ -30,4 +30,4 @@ Security considerations:
 
 ### Questions
 
-If you have questions, post them as an issue in this repository.
+If you have questions, post them in Q&A section of the discussion tab.
