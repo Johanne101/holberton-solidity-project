@@ -18,6 +18,7 @@ Minimum required unit test coverage:
 
 Bonus points:
 
+- allow marketplace contract to collect a fee on every NFT sale, allow owner to withdraw fee
 - allow smart contract to interact with exchange to deposit, buy, sell, withdraw
 - allow 3rd party tokens (allow someone to bid in another token than ETH such as USDC, DAI, LINK, etc)
 - allow user to deposit/withdraw multiple NFTs
