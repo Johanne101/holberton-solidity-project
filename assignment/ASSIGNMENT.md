@@ -25,7 +25,7 @@ Bonus points:
 - allow smart contracts to interact with exchange, see [IERC721Receiver.sol](https://github.com/OpenZeppelin/openzeppelin-contracts/blob/master/contracts/token/ERC721/IERC721Receiver.sol) [IERC1155Receiver.sol](https://github.com/OpenZeppelin/openzeppelin-contracts/blob/master/contracts/token/ERC1155/IERC1155Receiver.sol)
 - allow 3rd party tokens (allow someone to bid in another token than ETH such as USDC, DAI, LINK, etc)
 - allow user to deposit/withdraw multiple NFTs
-- allow your contract to be [upgraded](https://docs.openzeppelin.com/contracts/4.x/upgradeable)
+- allow your contract to be [upgraded](https://docs.openzeppelin.com/upgrades-plugins/1.x/hardhat-upgrades)
 
 Security considerations:
 
