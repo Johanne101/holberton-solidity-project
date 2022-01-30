@@ -1,19 +1,20 @@
-EthereumNFT Smart Contract Proyect
-==================
-***Table of Contents:***
-<p>
-0. README
-1. Resources
-2. Smart Contracts 1st Overview (*Intro*)
-3. Blockchain
+**EthereumNFT Smart Contract Proyect**
 
-</p>
+Table of Contents
+=================
+
+* [EthereumNFT Smart Contract Proyect](#ethereumnft-smart-contract-proyect)
+* [ Blockchain app Overview](#-blockchain-app-overview)
+* [Solidity](#solidity)
+* [Resources:](#resources)
+
 ###### What is a Blockchain?
 
-<p>
-###### Smart Contracts for tokens:
+###### Smart Contracts for tokens: *(Intro Overview)*
 ---
+
 ![EMV ](https://d1jnx9ba8s6j9r.cloudfront.net/blog/wp-content/uploads/2018/02/Ethereum-Architecture-Ethereum-Tutorial-Edureka.png)
+
 * Contracts
   1. Contract and Interface
     - Interface folder
@@ -26,16 +27,17 @@ EthereumNFT Smart Contract Proyect
 ---
 * Hadhat Config file
   - Hardhat.config.js
-</p>
 
 
-###### * Blockchain app Overview
+###### Blockchain app Overview
 ###### Solidity
+
 <p>
 * **Solidity**
 * **Compile**
 * **deploy contract**
 </p>
+
 ###### Ethereum
 <p>
 * Archtechture & components:
@@ -43,20 +45,23 @@ EthereumNFT Smart Contract Proyect
 
 Resources:
 ============
-
 ***Read or Watch***
 
 * [What is a Blockchain](https://www.youtube.com/watch?v=_160oMzblY8&t=7s) (*Blockchain Overview*)
   - [Blockchain101 - A visual Demo](https://andersbrownworth.com/blockchain/)
 <p>
+
 >>Very basic visual introduction to the concepts behind a blockchain. We introduce the idea of an immutable ledger using an interactive web demo.
+
   - [Blochain - Demo-Git-Hub](https://github.com/anders94/blockchain-demo/)
+
 * [Blockchain overview app](https://andersbrownworth.com/blockchain/)
 * [Solidity, compile, deploy contract](https://d1jnx9ba8s6j9r.cloudfront.net/blog/wp-content/uploads/2018/02/Ethereum-Architecture-Ethereum-Tutorial-Edureka.png) : *EVM Diagram*
 * [ethers](https://docs.ethers.io/v5/) *(I would recommend version 4)*
 
 ***Courses:***
 * [Hardhat](https://hardhat.org/getting-started/)
+
 ***Ethereum:***
 * [Ethereum Architechture Components](https://duckduckgo.com/?q=Ethereum-Architecture-Ethereum-Tutorial-Edureka&t=brave&iax=images&ia=images)
   - [Blockgeni](https://blockgeni.com/ethereum-architecture-and-components/)
