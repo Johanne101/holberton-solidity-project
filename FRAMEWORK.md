@@ -15,7 +15,6 @@ EthereumNFT Smart Contract Proyect
 ## What is a Blockchain?
 
 ## Smart Contracts for tokens: *(Intro Overview)*
----
 
 ![EMV ](https://d1jnx9ba8s6j9r.cloudfront.net/blog/wp-content/uploads/2018/02/Ethereum-Architecture-Ethereum-Tutorial-Edureka.png)
 ---
@@ -24,7 +23,7 @@ EthereumNFT Smart Contract Proyect
     - Interface folder
 >>Fungible vs. non-fungible
 
-	- ERC-20 Fungible Contract
+    - ERC-20 Fungible Contract
 ---
 * **Test Folder:**
   1. Unit Testing:
