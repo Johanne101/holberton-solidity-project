@@ -1,47 +1,47 @@
-**EthereumNFT Smart Contract Proyect**
+EthereumNFT Smart Contract Proyect
+=====
+**Table of Contents**
 
-Table of Contents
-=================
-
-* [EthereumNFT Smart Contract Proyect](#ethereumnft-smart-contract-proyect)
-* [ Blockchain app Overview](#-blockchain-app-overview)
+* [What is a Blockchain?](#what-is-a-blockchain)
+* [Smart Contracts for tokens: <em>(Intro Overview)</em>](#smart-contracts-for-tokens-intro-overview)
+* [Blockchain app Overview](#blockchain-app-overview)
 * [Solidity](#solidity)
+* [Ethereum](#ethereum)
+* [EthereumNFT Smart Contract Proyect](#ethereumnft-smart-contract-proyect)
 * [Resources:](#resources)
 
-###### What is a Blockchain?
+---
 
-###### Smart Contracts for tokens: *(Intro Overview)*
+## What is a Blockchain?
+
+## Smart Contracts for tokens: *(Intro Overview)*
 ---
 
 ![EMV ](https://d1jnx9ba8s6j9r.cloudfront.net/blog/wp-content/uploads/2018/02/Ethereum-Architecture-Ethereum-Tutorial-Edureka.png)
-
-* Contracts
+---
+* **Contracts**
   1. Contract and Interface
     - Interface folder
 >>Fungible vs. non-fungible
-    - ERC-20 Fungible Contract
+
+	- ERC-20 Fungible Contract
 ---
-* Test Folder:
+* **Test Folder:**
   1. Unit Testing:
     - Hardhat - Compilere, Node daemon, ethers (Library for interacting with smart Contracts)
 ---
-* Hadhat Config file
+* **Hadhat Config file**
   - Hardhat.config.js
+---
 
-
-###### Blockchain app Overview
-###### Solidity
-
-<p>
+## Blockchain app Overview
+## Solidity
 * **Solidity**
 * **Compile**
-* **deploy contract**
-</p>
+* **Deploy contract**
 
-###### Ethereum
-<p>
+## Ethereum
 * Archtechture & components:
-</p>
 
 Resources:
 ============
@@ -52,6 +52,7 @@ Resources:
 <p>
 
 >>Very basic visual introduction to the concepts behind a blockchain. We introduce the idea of an immutable ledger using an interactive web demo.
+</p>
 
   - [Blochain - Demo-Git-Hub](https://github.com/anders94/blockchain-demo/)
 
