@@ -3,14 +3,14 @@ Table of Contents
 =================
 
 * [holberton-solidity-project](#holberton-solidity-project)
-      * [Assignment](#assignment)
-      * [Setup:](#setup)
-      * [Resources](#resources)
-### Assignment 
+  * [Assignment](#tasks)
+  * [Setup:](#SetUp)
+  * [Resources](#resources)
+### Assignment <a name="Tasks"></a>
 
 Build a simple NFT exchange. See full writeup in `/assignment` folder.
 
-### Setup:
+### Setup: <a name="SetUp"></a>
 
 1. Fork the repository
 
@@ -36,7 +36,7 @@ npm run test
 
 ---
 
-### Resources
+### Resources <a name="resources"></a>
 
 This repo is forked from [this repo](https://github.com/davidberiro/bancor-liquidity-mining).  Feel free to use it as a reference on how to do things.
 
