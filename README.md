@@ -1,6 +1,12 @@
 # holberton-solidity-project
+Table of Contents
+=================
 
-### Assignment
+* [holberton-solidity-project](#holberton-solidity-project)
+      * [Assignment](#assignment)
+      * [Setup:](#setup)
+      * [Resources](#resources)
+### Assignment 
 
 Build a simple NFT exchange. See full writeup in `/assignment` folder.
 
