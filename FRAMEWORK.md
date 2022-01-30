@@ -53,7 +53,7 @@ Resources:
 >>Very basic visual introduction to the concepts behind a blockchain. We introduce the idea of an immutable ledger using an interactive web demo.
 </p>
 
-  - [Blochain - Demo-Git-Hub](https://github.com/anders94/blockchain-demo/)
+  * [Blochain - Demo-Git-Hub](https://github.com/anders94/blockchain-demo/)
 
 * [Blockchain overview app](https://andersbrownworth.com/blockchain/)
 * [Solidity, compile, deploy contract](https://d1jnx9ba8s6j9r.cloudfront.net/blog/wp-content/uploads/2018/02/Ethereum-Architecture-Ethereum-Tutorial-Edureka.png) : *EVM Diagram*
@@ -76,6 +76,6 @@ Resources:
 ***Answer: 1 Q? A DAY***
 * [Ethereum Stack Exchange](https://ethereum.stackexchange.com/)
 
-Tools:
-* [opensea nft]()
+***Tools:***
+* [opensea nft](https://opensea.io/)
 * [Hardhat](https://hardhat.org/getting-started/)
