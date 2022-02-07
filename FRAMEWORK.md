@@ -61,6 +61,7 @@ Resources:
 
 ***Courses:***
 * [Hardhat](https://hardhat.org/getting-started/)
+* [Mastering Ethereum: Youtube](https://www.youtube.com/playlist?list=PLD91CWV4ATCJHEGGwJa-8OHc9rWVBjcpo)
 
 ***Ethereum:***
 * [Ethereum Architechture Components](https://duckduckgo.com/?q=Ethereum-Architecture-Ethereum-Tutorial-Edureka&t=brave&iax=images&ia=images)
